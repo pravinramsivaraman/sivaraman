@@ -1,5 +1,4 @@
 
-#©FTK Automater v1.2 - 2021 Xteeahn
 from time import strftime
 import datetime
 from pywinauto.application import Application
